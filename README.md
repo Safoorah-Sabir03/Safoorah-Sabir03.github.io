@@ -1,1 +1,58 @@
-# Safoorah-Sabir03.github.io
+# Safoorah Sabir Academic Website
+
+This folder contains the first version of the personal academic website for **Safoorah Sabir**.
+
+## Files
+
+- `index.html` — website content
+- `styles.css` — visual design
+- `script.js` — mobile navigation and footer year
+- `assets/profile-placeholder.svg` — temporary profile image
+- `assets/favicon.svg` — browser icon
+- `files/` — place your CV here
+
+## Before publishing
+
+1. Add your latest CV to the `files` folder.
+2. Rename it exactly:
+   `Safoorah_Sabir_CV.pdf`
+3. Replace `assets/profile-placeholder.svg` with your professional photograph:
+   - easiest option: save your photo as `assets/profile.jpg`
+   - then open `index.html` and change:
+     `assets/profile-placeholder.svg`
+     to:
+     `assets/profile.jpg`
+4. Add your professional email to the Contact section if you want it displayed publicly.
+5. Review education, job title, teaching areas, and research descriptions.
+
+## GitHub Pages upload
+
+Upload everything inside this folder to your repository:
+
+`Safoorah-Sabir03.github.io`
+
+Then go to:
+
+**Repository → Settings → Pages**
+
+Use:
+
+- Source: `Deploy from a branch`
+- Branch: `main`
+- Folder: `/ (root)`
+
+Your website should then appear at:
+
+`https://safoorah-sabir03.github.io`
+
+## Academic profiles already added
+
+- ORCID
+- Google Scholar
+- ResearchGate
+- LinkedIn
+- GitHub
+
+## Visible website name
+
+The site displays **Safoorah Sabir**. The `03` appears only in the GitHub username / free GitHub Pages URL.
