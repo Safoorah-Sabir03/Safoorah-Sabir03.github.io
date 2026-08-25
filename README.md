@@ -79,24 +79,3 @@ The website also includes an Academic Service section for Statistical Editor and
 ## Latest visual refinement
 
 The homepage portrait card has been reduced to approximately 340 px wide on desktop for a more balanced academic layout.
-
-
-## Final homepage upgrade
-
-- Portrait reduced to approximately 285 px wide on desktop.
-- Main name reduced for better academic balance.
-- Current affiliation added under the professional title.
-- Hero research keywords simplified.
-- Direct Download CV button added.
-- News & Updates section added.
-- Navigation reordered to emphasize research and academic activity.
-- Service renamed to Academic Service.
-
-
-## Teaching section update
-Teaching Areas now also include:
-- Data Science
-- Machine Learning
-
-Academic Activities now also include:
-- Workshops on statistical analysis using R and Python
