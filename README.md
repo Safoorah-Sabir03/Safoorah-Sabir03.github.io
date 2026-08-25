@@ -56,3 +56,21 @@ Your website should then appear at:
 ## Visible website name
 
 The site displays **Safoorah Sabir**. The `03` appears only in the GitHub username / free GitHub Pages URL.
+
+
+## Updated version
+
+This version includes Safoorah Sabir's professional photograph and the redesigned modern CV with the July 22-23, 2026 PASTIC SPSS workshop.
+
+
+## Presentations added
+
+The `presentations` folder contains:
+
+- IDH Biostatistics & SPSS workshop (PDF and PPTX)
+- AIOU conference presentation (2026)
+- NUST conference presentation (2025)
+- Rawalpindi Women University conference presentation (2024)
+- Air University conference presentation (2024)
+
+The website also includes an Academic Service section for Statistical Editor and peer-review roles.

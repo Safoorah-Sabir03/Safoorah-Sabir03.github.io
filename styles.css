@@ -170,3 +170,15 @@ code{background:#eef4f9;padding:.1rem .35rem;border-radius:6px}
   .cards.three,.cards.two{grid-template-columns:1fr}
   .footer-wrap{flex-direction:column}
 }
+
+
+/* Presentations and academic service */
+.presentation-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+.presentation-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:24px;box-shadow:0 8px 24px rgba(23,58,94,.05)}
+.presentation-card h3{color:var(--navy);margin:10px 0 8px;font-size:1.18rem;line-height:1.35}
+.tag{display:inline-flex;padding:6px 10px;border-radius:999px;background:#eaf3fa;color:var(--blue);font-weight:800;font-size:.78rem;letter-spacing:.02em}
+.presentation-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.btn-small{padding:9px 13px;font-size:.88rem}
+.service-label{display:inline-block;margin-bottom:10px;color:var(--blue);font-size:.78rem;font-weight:800;text-transform:uppercase;letter-spacing:.10em}
+.service-card h3{line-height:1.35}
+@media (max-width:800px){.presentation-grid{grid-template-columns:1fr}}
