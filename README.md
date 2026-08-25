@@ -91,3 +91,12 @@ The homepage portrait card has been reduced to approximately 340 px wide on desk
 - News & Updates section added.
 - Navigation reordered to emphasize research and academic activity.
 - Service renamed to Academic Service.
+
+
+## Teaching section update
+Teaching Areas now also include:
+- Data Science
+- Machine Learning
+
+Academic Activities now also include:
+- Workshops on statistical analysis using R and Python
