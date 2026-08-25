@@ -74,3 +74,20 @@ The `presentations` folder contains:
 - Air University conference presentation (2024)
 
 The website also includes an Academic Service section for Statistical Editor and peer-review roles.
+
+
+## Latest visual refinement
+
+The homepage portrait card has been reduced to approximately 340 px wide on desktop for a more balanced academic layout.
+
+
+## Final homepage upgrade
+
+- Portrait reduced to approximately 285 px wide on desktop.
+- Main name reduced for better academic balance.
+- Current affiliation added under the professional title.
+- Hero research keywords simplified.
+- Direct Download CV button added.
+- News & Updates section added.
+- Navigation reordered to emphasize research and academic activity.
+- Service renamed to Academic Service.
