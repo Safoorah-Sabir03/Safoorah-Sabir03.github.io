@@ -1,0 +1,27 @@
+FULL WEBSITE REPLACEMENT
+
+1. Extract this ZIP.
+2. Open your GitHub repository: Safoorah-Sabir03.github.io
+3. Upload EVERYTHING inside this extracted folder.
+4. Allow GitHub to replace existing files.
+5. Commit changes.
+6. Put your five SPSS photos in the gallery folder using these exact filenames:
+   SPSS.jpg
+   SPSS 1.jpg
+   SPSS 2.jpg
+   SPSS 3.jpg
+   SPSS 4.jpg
+7. Wait 1–2 minutes.
+8. Refresh the website with Ctrl + F5.
+
+This package keeps:
+- old preferred layout
+- smaller profile photo
+- Google verification + SEO files
+- no duplicate hero profile buttons
+- CV
+- presentations
+- academic service
+- teaching updates
+- gallery
+- upcoming workshops
